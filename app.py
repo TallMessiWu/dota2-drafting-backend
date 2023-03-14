@@ -25,4 +25,4 @@ def radiant_dire(side):
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(port=667)
